@@ -4,7 +4,7 @@ Here we simply convert any text to speech and we can also change the pitch and s
 
 ## Dependency
 
-for material text design, we simple add material dependency in `build.gradle` **App** module 
+for material text design, we simply add material dependency in `build.gradle` **App** module 
 
 <img src="texttospeech/Capture1.JPG">
 
@@ -36,7 +36,7 @@ In **JAVA** file, first we used `TextToSpeech` property to convert the text to s
 
 <img src="texttospeech/Capture7.JPG">
 
-Then create a funtion where *pitch* and *speed* limits are set and call the **TextToSpeech** and also set the pitch and speed variables with 
+Then create a function where *pitch* and *speed* limits are set and call the **TextToSpeech** and also set the pitch and speed variables with 
 it.
 
 <img src="texttospeech/Capture8.JPG">
