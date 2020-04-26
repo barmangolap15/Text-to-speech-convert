@@ -1,6 +1,6 @@
 # Text-to-speech-convert
 
-Here we simple convert any text to speech and we can also change the pitch and speed of the speech
+Here we simply convert any text to speech and we can also change the pitch and speed of the speech
 
 ## Dependency
 
